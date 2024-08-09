@@ -1,0 +1,46 @@
+ Weekly Progress
+
+ Week 1 (August 4 - August 10)
+
+     Topics Learned:
+
+  - JavaScript Basic Syntax
+  - HTML and CSS Fundamentals
+  - DOM Manipulation Basics
+  - Data Types
+  - String Properties And Methods
+  - Arrays
+  - Object Literals
+  - Arrays of objeccts and JSON
+  - Loops
+  - High order array methods
+  - Conditionals
+  - Functions
+  - Arrow functions
+  - Constructor functions and prototypes
+  - ES6 classes
+  - Window object and DOM
+  - DOM selection
+  - Events
+  - Form Script
+
+    Key Takeaways:
+
+  - Understanding variable types and how to set them (let, const, var).
+  - How to manipulate the DOM using JavaScript.
+  - Understanding a little about strings,concatenation,template string ES6
+  - Arrays of objects 
+  - How to loop through arrays
+  - for and while loops
+  - High order array methods (forEach,map,filter)
+  - Simple if statements
+  - Object oriented program usin constructive function (prototypes and ES6 classes)
+  - a tiny project
+
+
+
+     Challenges Faced:
+
+  - Debugging JavaScript errors in the browser console.
+  
+   
